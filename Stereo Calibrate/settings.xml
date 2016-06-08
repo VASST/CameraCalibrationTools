@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Checkerboard_Specs>
+  <width_count>9</width_count>
+  <height_count>6</height_count>
+  <square_size>5.</square_size></Checkerboard_Specs>
+<Calibration_Images>
+  <folder_name>"./captures"</folder_name>
+  <prefix>CAP_</prefix>
+  <extension>".png"</extension>
+  <image_count>7</image_count></Calibration_Images>
+<Calibration_Params>
+  <distortion_model_param>5</distortion_model_param></Calibration_Params>
+<Calibration_File_Locations>
+  <left_calib_file>"./left_calibration.xml"</left_calib_file>
+  <right_calib_file>"./right_calibration.xml"</right_calib_file></Calibration_File_Locations>
+</opencv_storage>
